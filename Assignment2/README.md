@@ -1,8 +1,11 @@
 ## Question 1
 What is the value of clothes[0] and why?
+
+```
 const clothes = ['jacket', 't-shirt'];
 clothes.length = 0;
 console.log(clothes[0]);
+```
 
 ### Solution
 ```
