@@ -1,4 +1,4 @@
-# LetsUpgrade-JavascriptEssentials (2021 cohort
+# LetsUpgrade-JavascriptEssentials (2021 cohort)
 
 ### Summary : https://community.letsupgrade.in/post/batch-1-all-details-javascript-essentials-jan-2021-5ff87240fe07d76189ef4d79
 
